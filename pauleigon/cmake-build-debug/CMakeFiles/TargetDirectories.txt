@@ -1,0 +1,3 @@
+C:/Users/Isak/progchall/pauleigon/cmake-build-debug/CMakeFiles/pauleigon.dir
+C:/Users/Isak/progchall/pauleigon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isak/progchall/pauleigon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
