@@ -8,16 +8,6 @@ void addEdge(vector<int> adj[], int s, int d) {
   adj[d].push_back(s);
 }
 
-void printGraph(vector<int> adj[], int V) {
-  for (int d = 0; d < V; ++d) {
-    cout << "\n Vertex "
-       << d << ":";
-    for (auto x : adj[d])
-      cout << "-> " << x;
-    printf("\n");
-  }
-}
-
 void printPath_Visit(vector<int> adj[], int z, int destination, bool visit[],
                      int path[], int& index)
 {
