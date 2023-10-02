@@ -1,0 +1,21 @@
+# ninja log v5
+1	1613	7179081375552431	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+1617	1945	7179081378874003	kittenonatree.exe	8dcd59b47e659539
+4	1248	7179086046073305	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+1249	1357	7179086047121918	kittenonatree.exe	8dcd59b47e659539
+2	1561	7179090384451318	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+1562	1664	7179090385432797	kittenonatree.exe	8dcd59b47e659539
+4	1474	7179108530885806	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+1474	1608	7179108532195213	kittenonatree.exe	8dcd59b47e659539
+4	1504	7179108908990404	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+1505	1633	7179108910211983	kittenonatree.exe	8dcd59b47e659539
+6	2796	7179114417970391	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+2796	2915	7179114419106041	kittenonatree.exe	8dcd59b47e659539
+3	1437	7179116842204972	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+1438	1567	7179116843444220	kittenonatree.exe	8dcd59b47e659539
+5	2439	7179118815963619	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+2440	2583	7179118817373609	kittenonatree.exe	8dcd59b47e659539
+4	2597	7179149520653646	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+2597	2800	7179149522626415	kittenonatree.exe	8dcd59b47e659539
+5	2708	7179149731647053	CMakeFiles/kittenonatree.dir/main.cpp.obj	16af42580eb92f91
+2709	2870	7179149733246095	kittenonatree.exe	8dcd59b47e659539

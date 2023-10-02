@@ -1,0 +1,3 @@
+C:/Users/Isak/progchall/kittenonatree/cmake-build-debug/CMakeFiles/kittenonatree.dir
+C:/Users/Isak/progchall/kittenonatree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isak/progchall/kittenonatree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
