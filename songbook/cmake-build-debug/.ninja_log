@@ -1,0 +1,23 @@
+# ninja log v5
+1	2051	7196223222796532	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2057	2271	7196223224941471	songbook.exe	adb0f2ee2fd13cc1
+6	2179	7196223816776195	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2180	2340	7196223818366519	songbook.exe	adb0f2ee2fd13cc1
+5	2200	7196225314946207	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2202	2360	7196225316681842	songbook.exe	adb0f2ee2fd13cc1
+7	2220	7196226372732139	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2221	2393	7196226374478965	songbook.exe	adb0f2ee2fd13cc1
+5	2331	7196229553653621	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2333	2483	7196229555137020	songbook.exe	adb0f2ee2fd13cc1
+4	1829	7196229706050640	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+1830	1964	7196229707330481	songbook.exe	adb0f2ee2fd13cc1
+5	2248	7196230151244874	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2249	2381	7196230152534042	songbook.exe	adb0f2ee2fd13cc1
+4	1984	7196231216616356	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+1985	2128	7196231218013059	songbook.exe	adb0f2ee2fd13cc1
+4	1942	7196231583366826	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+1943	2087	7196231584777677	songbook.exe	adb0f2ee2fd13cc1
+5	2536	7196231945610139	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+2538	2699	7196231947204645	songbook.exe	adb0f2ee2fd13cc1
+6	1969	7196233830319711	CMakeFiles/songbook.dir/main.cpp.obj	c68ac3038a95455
+1970	2121	7196233831765085	songbook.exe	adb0f2ee2fd13cc1
