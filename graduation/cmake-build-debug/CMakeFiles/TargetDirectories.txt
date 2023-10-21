@@ -1,0 +1,3 @@
+C:/Users/Isak/progchall/graduation/cmake-build-debug/CMakeFiles/graduation.dir
+C:/Users/Isak/progchall/graduation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isak/progchall/graduation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
