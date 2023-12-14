@@ -1,0 +1,43 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Users/Isak/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/Isak/flowerytrails/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Users/Isak/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/Isak/flowerytrails/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Isak/flowerytrails/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Users/Isak/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe cmTC_2a8da && [1/2] Building C object CMakeFiles/cmTC_2a8da.dir/testCCompiler.c.obj
+[2/2] Linking C executable cmTC_2a8da.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Isak/flowerytrails/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Users/Isak/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe cmTC_92f8f && [1/2] Building CXX object CMakeFiles/cmTC_92f8f.dir/testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_92f8f.exe
+
+
+
